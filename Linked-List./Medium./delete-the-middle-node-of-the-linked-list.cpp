@@ -1,3 +1,4 @@
+// Delete the middle node of the linked list:
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
